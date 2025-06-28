@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# ご連絡
+# お問い合わせ
 
-皆様からのご意見やご提案、大歓迎です！何かご不明な点、お仕事のご依頼、サポートが必要な場合は、以下の方法でお気軽にご連絡ください。
+皆さんのご意見やご提案、ぜひお聞かせくださいね。何かご質問や、コラボのお話、あるいはサポートが必要な場合は、以下の方法でご連絡ください。
 
-メールにはできるだけ早く返信しますね。
+いただいたメールには、できる限り早くお返事させていただきます！
 
 ---
 
@@ -19,9 +19,9 @@ sidebar:
 
 *   **個人WeChat (Wechat):**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人WeChat" subtitle="ぜひお気軽にお友達追加してください！" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人WeChat" subtitle="交流大歓迎！" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
 *   **対応時間 (Office Hours):**
-    *   月曜日〜金曜日, 午前9:00〜午後6:00 (GMT+8)
+    *   月曜日から金曜日、午前9:00～午後6:00 (GMT+8)
     *   (土日祝日はお休みです)
