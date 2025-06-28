@@ -6,21 +6,23 @@ sidebar:
 ---
 #### 👋 何夕2077 / justlovemaki
 
-> Dix ans à coder, les doigts gelés, le cœur lourd sans m'exprimer.
-> Soudain, l'IA fait des étincelles, je me jure de me lancer à fond là-dedans.
+> Dix ans de code, les doigts gelés,
+> Des nœuds au ventre, toujours pas réglés.
+> Quand tout à coup, l'IA fait des étincelles,
+> Je me jure de la défier jusqu'au ciel.
 
-#### 🚀 Ma philo du code
+#### 🚀 Ma philosophie du code
 
-> La tech, au service du peuple
+> La tech au service du peuple
 
-#### ✨ Mes best-of
+#### ✨ Mes projets phares
 
-*   **[Contribution open-source/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   Un script de génération d'images IA basé sur Cloudflare Worker
-*   **[Contribution open-source/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Une plateforme d'agrégation et de génération de contenu, propulsée par Cloudflare Workers. Elle sélectionne pour vous chaque jour les dernières actu dans le domaine de l'IA, incluant les news du secteur, les projets open-source qui buzzent, les papiers de recherche de pointe, et les avis des gros influenceurs tech sur les réseaux sociaux.
-*   Plus de détails sur mes projets sur mon [GitHub](https://github.com/justlovemaki).
+*   **[Contribution open source / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   Un script de génération d'images IA basé sur Cloudflare Worker.
+*   **[Contribution open source / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   Une plateforme d'agrégation et de génération de contenu, propulsée par Cloudflare Workers. Elle vous propose chaque jour une sélection des dernières actus dans le domaine de l'IA, incluant l'actu du secteur, les projets open source qui buzzent, les papiers de recherche de pointe et les avis des gros influenceurs tech sur les réseaux sociaux.
+*   Retrouve plus de détails sur mes projets sur mon [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 Ce que j'explore en ce moment
+#### 🌱 Mes explorations du moment
 
-J'ai un gros kiff pour les applications LLM et le SEO web, et je m'y plonge à fond pour apprendre et pratiquer.
+J'ai un gros kiff pour les applications LLM et le SEO de sites web, et je me plonge à fond dedans pour apprendre et pratiquer.
