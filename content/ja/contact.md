@@ -6,22 +6,22 @@ sidebar:
 ---
 # お問い合わせ
 
-皆さんのご意見やご提案、ぜひお聞かせくださいね。何かご質問や、コラボのお話、あるいはサポートが必要な場合は、以下の方法でご連絡ください。
+ご意見やご提案、大歓迎です！何か質問や、コラボのご相談、サポートが必要でしたら、以下の方法でご連絡くださいね。
 
-いただいたメールには、できる限り早くお返事させていただきます！
+メールは、できるだけ早くお返ししますね。
 
 ---
 
 ## **連絡先**
 
-*   **メール (Email):**
+*   **Eメール (Email):**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
 *   **個人WeChat (Wechat):**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人WeChat" subtitle="交流大歓迎！" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人WeChat" subtitle="ぜひ交流しましょう" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
 *   **対応時間 (Office Hours):**
-    *   月曜日から金曜日、午前9:00～午後6:00 (GMT+8)
+    *   月曜日〜金曜日, 午前9時〜午後6時 (GMT+8)
     *   (土日祝日はお休みです)
