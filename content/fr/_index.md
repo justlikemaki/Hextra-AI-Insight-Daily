@@ -2,93 +2,71 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /fr/2025-06/2025-06-28
-description: Aliyun a sorti son gros modèle multimodal unifié, Qwen VLo ! Il est capable
-  de comprendre, générer et même éditer des images🎨 avec de simples instructions en
-  langage naturel 🌟, et il gère aussi les tâches de perception et multilingues. Sa
-  technologie unique de "compréhension-dessin simultané" ass...
+next: /fr/2025-06/2025-06-29
+description: 'Les équipes de CMU et de Xiaohongshu ont uni leurs forces pour proposer
+  une technique innovante : HoPE (Hybrid of Position Embedding), un encodage de position
+  hybride ! 🚀 Ils ont découvert que les RoPE multimodaux existants étaient un peu
+  à la peine quand il s''agissait de modéliser la sémantique ...'
 cascade:
   type: docs
 ---
-## Flash Quotidien IA 2025/6/29
+## Le Point Quotidien IA 2025/6/30
 
-> `Flash Actu IA` | `MàJ 8h tapantes` | `Agrégation de données du net` | `Recherche scientifique de pointe` | `L'industrie s'exprime librement` | `La force de l'open source innovant` | `L'IA et le futur de l'humanité` | [Accéder à la version web ↗️](https://ai.hubtoday.app/)
+> `Quotidien IA` | `Mise à jour 8h du mat'` | `Agrégation de données du web` | `Exploration scientifique de pointe` | `Libre expression de l'industrie` | `Force de l'innovation open source` | `L'IA et l'avenir de l'humanité` | [Accéder à la version web ↗️](https://ai.hubtoday.app/)
 
 
 
-### **Le point sur l'IA**
+### **Le Récap' IA**
 
 ```
-Aliyun lance le modèle multimodal Qwen VLo, les assistants IA boostent la productivité.
-Progrès en IA génétique et interfaces cerveau-machine, Tesla livre en mode autonome.
-L'API Gemini redevient gratuite, l'IA métamorphose le monde à vitesse grand V.
+CMU et co. lancent HoPE pour booster la compréhension de vidéos longues par les VLM, Renmin Univ. et co. optimisent les modèles multimodaux avec MokA.
+Projets open source couvrent tutos IA générative et boîtes à outils IA. Gary Marcus doute que les LLM purs puissent atteindre l'AGI.
+L'IA réduit drastiquement le seuil de l'entrepreneuriat, pousse l'investissement à se repenser, et encourage l'adoption de la collaboration pour saisir les opportunités de l'ère.
 ```
 
 
-
-### Nouveautés produits et fonctions IA
-1.  Aliyun a sorti son gros modèle multimodal unifié, **Qwen VLo** ! Il est capable de comprendre, générer et même éditer des images🎨 avec de simples instructions en langage naturel 🌟, et il gère aussi les tâches de perception et multilingues. Sa technologie unique de "**compréhension-dessin simultané**" assure la stabilité et la cohérence des détails d'image. C'est une version preview pour l'instant, dispo via Qwen Chat. Plus de détails: ['https://qwenlm.github.io/zh/blog/qwen-vlo/'](https://qwenlm.github.io/zh/blog/qwen-vlo/)
-    <br/> [![图片](https://assets-v2.circle.so/smpfv7qb8k4hqlzrvypt3dadpsh2)](https://assets-v2.circle.so/smpfv7qb8h4hqlzrvypt3dadpsh2) <br/>
-    <br/> [![图片](https://assets-v2.circle.so/l3mf78vo9ym09p7oyykpcvkxrnsy)](https://assets-v2.circle.so/l3mf78vo9ym09p7oyykpcvkxrnsy) <br/>
-
-2.  **Roy Lee**, viré de Harvard et Columbia pour triche, a carrément lancé, avec sa startup **Cluely** après avoir décroché des dizaines de millions de dollars de financement, un **assistant IA de bureau** qui promet de "révolutionner neuf industries" ! 😱 Ce truc de fou peut **analyser l'écran et l'audio en temps réel**, offrant une **assistance intelligente** pour les réunions, les ventes, le service client, l'apprentissage, les entretiens... bref, il va complètement bouleverser nos méthodes de travail traditionnelles 🚀.['Plus de détails'](https://www.jiqizhixin.com/articles/2025-06-28-6)
-    <br/> [![图片](https://image.jiqizhixin.com/uploads/editor/a0f1917e-864b-4637-b58b-db3f023bba89/1751106831951.png)](https://image.jiqizhixin.com/uploads/editor/a0f1917e-864b-4637-b58b-db3f023bba89/1751106831951.png) <br/>
 
 ### Recherche IA de pointe
-1.  Google DeepMind a dévoilé **AlphaGenome**🧬🔬, un modèle d'IA révolutionnaire de "**compréhension génétique**" capable de prédire avec une précision de dingue l'impact des variations des **zones non codantes** de l'ADN sur la régulation génique. Ça va grave aider la recherche sur les mécanismes des maladies et la biologie synthétique. Il surpasse de loin les techs actuelles pour gérer les **séquences d'ADN** ultra-longues et prédire les propriétés de régulation. L'API est déjà dispo pour la recherche non commerciale. L'article: ['https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/'](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
-    <br/> [![图片](https://assets-v2.circle.so/k10qs8x4lxf6x4905802yz2cq8eb)](https://assets-v2.circle.so/k10qs8x4lxf6x4902yz2cq8eb) <br/>
-    <br/> [![图片](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin)](https://assets-v2.circle.so/xo0mz5avlik88bsflzzrp6m3jrin) <br/>
 
-2.  🚀 Une recherche de pointe menée par des équipes de l'Université Northeastern, de l'Université Chinoise de Hong Kong et d'Adobe Research a lancé **DraftAttention**, une méthode pour **accélérer les modèles de diffusion vidéo** ! Elle utilise un **mécanisme d'attention** dynamique et clairsemé, **sans entraînement et plug-and-play**, qui résout nickel le goulot d'étranglement de calcul du **mécanisme d'attention**. Ça réduit grave les coûts et permet une **accélération de l'inférence de bout en bout GPU jusqu'à 2 fois**, rendant la génération de vidéo de haute qualité plus efficace et plus pratique ✨.
-    <br/> [![图片](https://image.jiqizhixin.com/uploads/editor/337eefaa-ce93-46e1-a441-8938c38ec46f/640.png)](https://image.jiqizhixin.com/uploads/editor/337eefaa-ce93-46e1-a441-8938c38ec46f/640.png) <br/>
-    <br/> [![图片](https://image.jiqizhixin.com/uploads/editor/cdd9dea6-eb55-432b-9335-a9091f601d7c/640.png)](https://image.jiqizhixin.com/uploads/editor/cdd9dea6-eb55-432b-9335-a9091f601d7c/640.png) <br/>
-    ['L'article'](https://arxiv.org/abs/2505.14708)
+1.  Les équipes de **CMU** et de **Xiaohongshu** ont uni leurs forces pour proposer une technique innovante : **HoPE** (**H**ybrid **o**f **P**osition **E**mbedding), un **encodage de position hybride** ! 🚀 Ils ont découvert que les **RoPE multimodaux** existants étaient un peu à la peine quand il s'agissait de modéliser la sémantique de **contextes longs**. Alors, HoPE introduit astucieusement une **modélisation temporelle à fréquence nulle** et une stratégie de **mise à l'échelle dynamique**, c'est comme si on avait mis des "baskets de course à pied" aux **modèles visuels de langage** (**VLM**) ! Ça a boosté à fond leur **capacité de généralisation en longueur** pour la **compréhension de vidéos longues** et les tâches de **recherche**, filant droit vers les meilleures performances ! 💡 Trop stylé ! ['論文地址'](https://arxiv.org/pdf/2505.20444) ['項目地址'](https://github.com/hrlics/HoPE)
 
-### L'IA : perspectives et impact social
-1.  🚀 La société Neuralink de Musk a dévoilé lors de sa conf' de presse les progrès hallucinants de son **implant N1 d'interface cerveau-machine** : la **vitesse d'implantation des électrodes** est passée à 1,5 seconde par électrode, et sept volontaires peuvent même déjà jouer à des jeux ou contrôler des bras robotiques par la pensée ! 🌐 Il a aussi tracé une **feuille de route ambitieuse sur trois ans** : soigner la cécité d'ici **2026**, et vise une **intégration profonde de toute l'humanité avec l'IA d'ici 2028**, le but étant de changer radicalement la façon dont l'humain interagit avec le monde numérique grâce à une **interface cérébrale complète** 🤯.
-    <br/> [![图片](https://wechat2rss.xlab.app/img-proxy/?k=0bf4978b&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5cSWGJvu2zUZ5Tms6iciafzv309n9Ht2JhnxYAd9MqRJZznxWkpvW2TFgA%2F0%3Fwx_fmt%3Djpeg)](https://wechat2rss.xlab.app/img-proxy/?k=0bf4978b&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5cSWGJvu2zUZ5Tms6iciafzv309n9Ht2JhnxYAd9MqRJZznxWkpvW2TFgA%2F0%3Fwx_fmt%3Djpeg) <br/>
-    <br/> [![图片](https://wechat2rss.xlab.app/img-proxy/?k=36c63c9c&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_gif%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5caZ50QQsDR9dm0uFiaiaib4ldLvnjRUFVeZ7AeysgSJzmibrxa8yURqfeEQ%2F640%3Fwx_fmt%3Dgif)](https://wechat2rss.xlab.app/img-proxy/?k=36c63c9c&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_gif%2FUicQ7HgWiaUb3hGr095QGmBoiceyxYcRV5caZ50QQsDR9dm0uFiaiaib4ldLvnjRUFVeZ7AeysgSJzmibrxa8yURqfeEQ%2F640%3Fwx_fmt%3Dgif) <br/>
-    ['Plus de détails'](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652605172&idx=1&sn=af0348a245d7f79f539ea6839caf05b2)
+2.  Époustouflant ! Les équipes de l'**Université Renmin de Chine** et du **Laboratoire d'IA de Shanghai** dévoilent une nouvelle percée : la méthode **MokA** (**M**ultimodal **low-rank** **A**daptation) ! 🤯 Ils ont constaté qu'en affinant les **grands modèles multimodaux** (**MLLM**), on laissait souvent de côté l'équilibre entre la **modélisation unimodale indépendante** et les **interactions intermodales**. MokA, tel un maître de l'équilibre, résout ce problème à la perfection grâce à une combinaison astucieuse de **matrices A spécifiques aux modalités**, de **mécanismes d'attention transmodaux** et de **matrices B partagées**, faisant grimper en flèche les performances des tâches multimodales ! ✨ Au top ! ['論文地址'](https://arxiv.org/abs/2506.05191) ['更多详情'](https://gewu-lab.github.io/MokA)
 
-### Les meilleurs projets open source
-1.  🌟 **twenty** est un projet open source qui cartonne avec **29940** étoiles 🚀 ! Il veut créer une alternative moderne à Salesforce, pilotée par la communauté, pour résoudre les grosses **limites** des **systèmes CRM** traditionnels. Lien du projet: ['https://github.com/twentyhq/twenty'](https://github.com/twentyhq/twenty)
+### TOP Projets Open Source
 
-2.  ✨ Avec ses **13636** étoiles, **Graphite** est un **éditeur 2D vectoriel et matriciel** innovant 🎨 ! Il mixe intelligemment les calques classiques avec un **workflow procédural** non destructif basé sur les nœuds, offrant aux utilisateurs des capacités d'édition d'image méga puissantes ! Lien du projet :['https://github.com/GraphiteEditor/Graphite'](https://github.com/GraphiteEditor/Graphite)
+1.  Le projet "**generative-ai-for-beginners**” (avec 86547 étoiles 🌟) a lancé 21 leçons, conçues spécialement pour les débutants, pour t'apprendre pas à pas à maîtriser les **compétences de construction** de l'**IA générative** ! Envie de devenir un magicien de l'IA ? Viens vite apprendre ! 💪✨ ['項目地址'](https://github.com/microsoft/generative-ai-for-beginners)
 
-3.  📚 **BookLore**, une **application web** bien pratique avec **1708** étoiles 📖, est là pour aider les bouquineurs à héberger, gérer et explorer toutes sortes de bouquins en toute simplicité. Ça supporte les formats PDF et ebooks, et ça peut même enregistrer ta progression de lecture, les métadonnées et te donner des stats de lecture ! Lien du projet :['https://github.com/adityachandelgit/BookLore'](https://github.com/adityachandelgit/BookLore)
+2.  Le projet "**system-prompts-and-models-of-ai-tools**” (avec 62777 étoiles ✨) est une vraie pépite ! Il rassemble les **prompts système**, les **outils** et les **modèles d'IA** des outils et agents IA populaires comme Cursor et Devin, pour t'offrir une référence complète et centralisée qui t'aidera à maîtriser les outils IA ! 📚💡 ['項目地址'](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
-4.  🎮🌟 **romm**, un **gestionnaire et lecteur de ROM** qui a le look et la performance, a raflé **4893** étoiles ! Il supporte l'**auto-hébergement**, offrant aux gamers une gestion de ROMs et une expérience de jeu ultra pratiques. Lien du projet :['https://github.com/rommapp/romm'](https://github.com/rommapp/romm)
+3.  Le projet "**storm**” (avec 24892 étoiles ⭐) est super puissant ! C'est un **système de gestion des connaissances piloté par LLM**, qui peut, tel un mini-chercheur, rechercher de manière autonome des sujets spécifiques et ensuite générer des **rapports** complets avec des **citations**. Pour rédiger des thèses ou faire des recherches, c'est l'assistant rêvé ! 🧠✍️ ['項目地址'](https://github.com/stanford-oval/storm)
 
-5.  📈 **Serial-Studio** est un projet **open source** pépite avec **5655** étoiles ✨ ! Il est super fort pour la **visualisation de données d'appareils embarqués**, permettant aux utilisateurs de comprendre intuitivement l'état de fonctionnement de leurs appareils. C'est carrément un outil de débogage de dingue !['https://github.com/Serial-Studio/Serial-Studio'](https://github.com/Serial-Studio/Serial-Studio)
+### Ce qu'on voit sur les réseaux
 
-6.  💼🚀 **midday** est un **outil de gestion complet** taillé sur mesure pour les **freelances**, et il a récolté **8098** étoiles ! Ses fonctions principales couvrent la **facturation**, le **suivi du temps**, le **rapprochement de fichiers**, le **stockage** et un **aperçu financier**. En plus, il offre même un **assistant IA dédié**, pour rendre le travail indépendant encore plus cool.['https://github.com/midday-ai/midday'](https://github.com/midday-ai/midday)
+1.  Le célèbre expert en IA, **Gary Marcus**, tire encore à boulets rouges ! 🤔 Citant des papiers du **MIT**, de l'**Université de Chicago** et de l'**Université Harvard**, il affirme sans détour que les **LLM** purs ne pourront jamais créer une **intelligence artificielle générale** (**AGI**) ! Pourquoi donc ? Parce qu'ils souffrent de "**compréhension Potemkine**” (fausse compréhension) et d'**incohérences conceptuelles**. En clair : l'IA peut briller aux examens, mais elle montre ses limites quand il s'agit de vraiment comprendre et appliquer les concepts. La recherche a aussi montré que des **LLM** comme **GPT-4o**, une fois un concept clairement défini, voient leurs performances dégringoler dès qu'ils sont appliqués à des tâches concrètes comme la classification, la génération ou l'édition 📉, allant même jusqu'à avoir des **représentations conflictuelles** en interne pour une même idée. Ça a déclenché un intérêt et des tests généralisés chez les gros bonnets de l'industrie, comme le **scientifique de Google DeepMind, Prateek Jain** ! Apparemment, le chemin de l'IA vers l'AGI est encore long ! 💡 ['更多详情'](https://www.jiqizhixin.com/articles/2025-06-29-5)
+    <br/> ![LLM概念不一致性分析](https://image.jiqizhixin.com/uploads/editor/d3e2a41e-6387-466a-88c6-a4c55621ae40/640.png) <br/>
 
-### Partages sur les réseaux
-1.  🎉 Le blogueur **Guizang (guizang.ai)** nous apporte une super bonne nouvelle : le **crédit gratuit** de l'**API Gemini 2.5 Pro** est de nouveau dispo partout ! 🥳 Ça veut dire qu'on peut continuer à "profiter gratos" de ce modèle d'IA ultra puissant sans se prendre la tête ! La nouvelle a même été confirmée officiellement par Logan Kilpatrick de Google, c'est génial !
-    <br/> [![图片](https://pbs.twimg.com/media/GuhXQWqaoAIKkyy?format=jpg&name=orig)](https://pbs.twimg.com/media/GuhXQWqaoAIKkyy?format=jpg&name=orig) <br/>
-    ['Plus de détails'](https://x.com/op7418/status/1938895703608316011)
+2.  **Tom Huang** dévoile les secrets de productivité des développeurs clés de **Cursor** ! 🚀 Envie d'utiliser Cursor plus efficacement ? Ils t'apprennent à utiliser les "**Agents Parallèles**” ! En combinant astucieusement les **Tab**, **Formed Tab** et **Background Agent**, tu peux monter un système d'exécution de tâches super efficace, qui donnera des ailes à ta collaboration IA 💻 ! Va vite voir comment ça marche ! ['更多详情'](https://x.com/tuturetom/status/1939321864200888536)
+    <br/> ![Cursor并行Agents工作流](https://pbs.twimg.com/media/Guna8_wW4AAkmqU?format=jpg&name=orig) <br/>
 
-2.  🎵 Guizang (guizang.ai) a annoncé que **Keling** a carrément lancé une fonction méga cool de **génération d'effets sonores vidéo** ! 🤩 Et le mieux, c'est que cette fonction est actuellement **gratuite** pour tous les utilisateurs. Ça ouvre un monde de possibilités aux créateurs vidéo, c'est dingue ! Pour plus d'infos, jette un œil ici ['plus de détails'](https://x.com/op7418/status/1938894186742485484).
-    <video src="https://video.twimg.com/amplify_video/1938607664184918016/vid/avc1/854x480/6mrlyY8S8V_qOBAL.mp4?tag=21" controls="controls" width="100%"></video>
+3.  M. Yang Yi a soulevé un point de vue qui pousse à la réflexion : le domaine de la création de contenu se trouve actuellement dans une "**fenêtre d'arbitrage de l'attention**” 😮‍💨 ! Il dit que certains exploitent déjà l'**IA** pour "**créer un levier de contenu**”, ce qui laisse présager qu'à l'avenir, une fois l'IA généralisée, le **contenu original humain** prendra de plus en plus de valeur, voire une prime. Mais ce qui l'inquiète le plus, c'est que l'**IA** pourrait, à des coûts minimes, éroder progressivement la "**culture spirituelle humaine**” – ça, c'est bien plus flippant que la transformation des modes de création de contenu ! ✍️ À méditer... ['更多详情'](https://x.com/Yangyixxxx/status/1939318396111430096)
 
-3.  🚗💨 Xiaohu a partagé avec enthousiasme une **percée historique** de **Tesla** dans l'autonomie : ils ont réalisé pour la première fois une **livraison entièrement autonome de A à Z**, de l'usine au client ! 🎉 Une **Model Y** a roulé toute seule pendant 30 minutes au Texas et a bien été livrée. C'est carrément le coup d'envoi officiel de l'ère des **livraisons de véhicules totalement autonomes** sur les routes publiques mondiales ! Trop cool ! Plus d'infos, c'est par là ['plus de détails'](https://x.com/imxiaohu/status/1938848110115201068).
-    <video src="https://video.twimg.com/amplify_video/1938847117344415748/vid/avc1/576x1024/RfOyZMDQDVPVsTLI.mp4" controls="controls" width="100%"></video>
+4.  M. Yang Yi estime qu'à l'**ère de l'IA**, le seuil de l'**entrepreneuriat** a été carrément "bradé" par l'IA ! 💸 Les coûts de construction d'un **MVP** (produit minimum viable) ont chuté drastiquement, rendant la **validation rapide des idées** possible. Son conseil aux entrepreneurs : arrête de te prendre la tête sur la viabilité de tes idées, utilise directement l'**IA** pour valider un MVP en à peine 3 jours, tu pourrais même tester 30 idées en 3 mois chrono ! Comme ça, tu trouveras plus vite la bonne direction, celle qui vaut le coup de s'y mettre à fond ! 🚀💡 C'est juste énorme ! ['更多详情'](https://x.com/Yangyixxxx/status/1939278373978857614)
 
-4.  💡 wwwgoubuli a mis en avant les **bonnes pratiques de Vibe Coding** de Corey Chiu, soulignant que l'essentiel, c'est d'**optimiser les étapes de développement**, pas de se prendre la tête sur le choix du modèle précis. 🤔 Cette approche est super inspirante pour la collab' humain-**IA**. Elle mixe astucieusement **Cursor** et **Claude Code** pour bâtir un **flux de travail complet, super efficace et fluide**, de l'idée au code 👍. Pour en savoir plus, checke ça ['plus de détails'](https://x.com/wwwgoubuli/status/1938794235106558301).
-    <br/> [![图片](https://pbs.img.com/media/GucQUv_agAAe-lI?format=jpg&name=orig)](https://pbs.img.com/media/GucQUv_agAAe-lI?format=jpg&name=orig) <br/>
+5.  En tant qu'**investisseur** en IA, Yang Yi a partagé son "arme secrète" : il ne regarde pas les chiffres bruts, mais se concentre sur les **indicateurs qualitatifs** 📈 ! Selon lui, pour juger si un projet startup IA est investissable, cinq points sont clés : la **vision globale** des fondateurs pour l'avenir (y compris le PMF et la **scalabilité**), à quel point l'équipe est **convaincue**, le niveau d'**efficacité** que l'IA a apporté à la gestion d'équipe, si l'Agent a une **boucle de rétroaction** complète (c'est la **méthodologie** du succès de l'IA !), et la **scalabilité** du **framework multi-agents**. Il estime que des données comme la rétention d'utilisateurs, ce sont des "sous-produits" qui viennent naturellement avec le temps ! 🎯 Une vision bien à lui ! ['更多详情'](https://x.com/Yangyixxxx/status/1939212085185093664)
 
-5.  ✍️ Mu Yao a posté un truc où il ne tarit pas d'éloges sur le style d'écriture de **Gemini 2.5 Pro**. Il trouve que son expression est "profonde, appropriée, vivante, riche et innovante", et que ça dégomme carrément le "style relou" de DeepSeek et le côté super fade de GPT-4.5. 😮 Il va même plus loin, il pense que le niveau d'écriture de Gemini 2.5 Pro est comparable à sa propre production quand il est au top, ce qui le rend "désespéré" face à la puissance de l'IA 😂 ! Plus de détails: ['https://m.okjike.com/originalPosts/685f594d17aacc074df87b7c'](https://m.okjike.com/originalPosts/685f594d17aacc074df87b7c)
+6.  Un utilisateur a partagé une "nouvelle astuce" pour **coder en discutant** avec l'IA 👨‍💻, et ce mode devient de plus en plus populaire : plutôt que de bombarder l'IA d'instructions détaillées d'emblée, il faut d'abord lui expliquer clairement le contexte et les objectifs du projet, puis laisser l'IA proposer ses propres idées basées sur ces infos, et enfin discuter ensemble pour **aligner le niveau de granularité**. Cette approche exploite astucieusement l'**efficacité** de l'IA à comprendre rapidement le contexte, compensant notre "manque de matière grise" quand il s'agit de planification détaillée, et booste énormément l'efficacité du travail en **mode collaboratif** ! 🤝 Une aubaine pour les développeurs ! ['更多详情'](https://x.com/wwwgoubuli/status/1939168328070603017)
 
-6.  🏆 NVIDIA AI Developer a récemment annoncé les trois projets gagnants de son Agent Toolkit Hackathon : **cuOptIQ** se concentre sur l'optimisation des trajets des chariots élévateurs en usine, **OpenCodeReview** automatise l'analyse de sécurité du code et la détection des failles, et **Holistic Travel Assistant** révolutionne carrément la planification de voyages 🗺️ ! Ces projets montrent à fond l'énorme potentiel de l'utilisation du kit d'outils NVIDIA Agent Intelligence pour connecter les **agents IA**. Plus de détails: ['https://x.com/NVIDIAAIDev/status/1938688505376297192'](https://x.com/NVIDIAAIDev/status/1938688505376297192)
-    <br/> [![图片](https://pbs.twimg.com/media/Go2JoEVWsAAOq8i?format=jpg&name=orig)](https://pbs.twimg.com/media/Go2JoEVWsAAOq8i?format=jpg&name=orig) <br/>
+7.  Un utilisateur se plaint que certains **investisseurs** actuels utilisent encore les vieilles **métriques** de l'**internet mobile** pour évaluer les projets IA, et le résultat, c'est qu'ils ne trouvent juste aucun bon projet ! 🤔 Parce que ces **logiques** traditionnelles (formelles, informelles, voire la **théorie des probabilités**) ne font que regarder le passé. L'auteur souligne que la **loi de Bayes** est une vraie méthode de **décision** tournée vers l'avenir, et qu'elle est plus adaptée pour évaluer les projets du **secteur de l'IA** ! 💡 Il est temps de mettre à jour le "système d'exploitation" de l'investissement ! ['更多详情'](https://m.okjike.com/originalPosts/6860acdfd82bae994ab2ac0e)
+    <br/> ![投资评估新视角](https://cdnv2.ruguoapp.com/FkJ8CttPht-FSudcqveStLiBY6BBv3.png) <br/>
+    <br/> ![贝叶斯定律AI投资](https://cdnv2.ruguoapp.com/FhaVZhhtXfzamqX8c4dNBF62yfZRv3.png) <br/>
 
-7.  ⚠️ wwwgoubuli a soulevé un point important : ce n'est pas top de vouloir gérer toutes les règles avec de longs prompts de texte massif, parce que ça peut facilement faire rater des instructions. 🤔 Selon lui, la meilleure stratégie, c'est de faire du **stratifié**, d'utiliser le **traitement multi-agents** et de laisser chacun faire son taf, au lieu de copier bêtement la méthode de certains modèles (comme Claude) qui balance toutes les instructions d'un coup. Franchement, c'est une sacrée perspicacité ! Plus de détails: ['https://x.com/wwwgoubuli/status/1938647120812356008'](https://x.com/wwwgoubuli/status/1938647120812356008)
+8.  Dashuai Laoyuan et son collègue Dash affirment sans détour : l'apparition fulgurante de l'**IA**, c'est comme si elle avait "**nivelé la ligne de départ**” pour toute l'humanité 🏃‍♀️💨 ! Ils pensent que les énormes opportunités offertes par l'IA dépassent même la vague internet d'il y a 20 ans, permettant à tous, y compris aux employés débutants, de s'affranchir des contraintes de ressources et d'exploiter pleinement l'IA pour apprendre et créer. Mais ils avertissent aussi : si les développeurs restent sur leurs acquis et ne cherchent pas à progresser, alors cette "ligne de départ" finira par vous rattraper, voire vous laisser sur le carreau ! Donc, adopter l'IA activement, c'est la voie royale !
 
 ---
 
-## **Écoutez le Flash Quotidien IA en version audio**
+## **Écoutez la version audio du Quotidien IA**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [La Taverne de la Prochaine Vie](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [La Station d'Info de la Prochaine Vie](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
+| [La Taverne Laisheng](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [Le Poste d'Info Laisheng](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
 | ![小酒馆](https://s1.imagehub.cc/images/2025/06/24/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://s1.imagehub.cc/images/2025/06/24/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
